@@ -137,7 +137,7 @@ This is a **rule-based** detector. It checks the structure of a URL and does not
 ## 👩‍💻 Author
 
 **Aditi Kumari**
-USN: 1DS24CS007
+
 Department of Computer Science & Engineering
 Dayananda Sagar College of Engineering, Bengaluru
 
